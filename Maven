@@ -1,0 +1,6 @@
+<dependency>
+  <groupId>com.google.ads.mediation</groupId>
+  <artifactId>chartboost</artifactId>
+  <version>7.5.0.0</version>
+  <type>pom</type>
+</dependency>
